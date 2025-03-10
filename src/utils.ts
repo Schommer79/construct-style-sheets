@@ -14,6 +14,7 @@ export function rejectImports(contents: string): string {
   return _contents.trim();
 }
 
+
 /**
  * Cross-platform check for the element to be connected to the DOM
  */
